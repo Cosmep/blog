@@ -1,0 +1,47 @@
+body {
+    width: 100%;
+    height: auto;
+    margin: 0;
+
+}
+
+#container  {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.add {
+     text-align: center;
+     text-transform:uppercase; 
+ }
+
+.addTask_{
+   text-align: center;
+   text-transform:uppercase; 
+}
+ 
+ 
+.card-panel {
+    text-align: center;
+    
+}
+#app {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  
+  li {
+    list-style: none;
+    margin-top: 10px;
+  }
+
+  .nav-wrapper{
+    background-color: #074037;
+  }
+
+
+
